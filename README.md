@@ -1,0 +1,1 @@
+It is like a zip-unzip folder. Packer can pack multiple files into one folder that is packed folder like (Zip) operation and it also can unpack the folder to extract multiple files from the folder that is like (Unzip) operation.
