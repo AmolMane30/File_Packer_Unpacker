@@ -1,3 +1,19 @@
+//----------------------------------------------------------------------------------------------------------------------------------//
+//        Project Title : File_Packer_Unpacker
+//        Technology    : Java Programming
+//        Description   : The File Packer & Unpacker is a Java-based file utility tool designed to simplify file management operations. 
+//                        It allows users to pack multiple files into a single archive and later unpack them back into their original form
+//                        with all metadata preserved (such as filename, size, and timestamp).
+
+//        Author       : Amol R. Mane
+//----------------------------------------------------------------------------------------------------------------------------------//
+
+
+//----------------------------------------------------------------------------------------------------------------------------------//
+//                                                [ File_Packer_Unpacker]
+//----------------------------------------------------------------------------------------------------------------------------------//
+
+
 import java.io.*;
 import java.util.*;
 
